@@ -1,0 +1,16 @@
+.slider .slides li .caption{
+    top: 40%;
+}
+.slider .slides li .caption, .texto-do-slide{
+    color: #000000;
+    text-shadow: 1px 1px 5px black;
+}
+.espacamentoSuperior{
+    margin-top: 95vh;
+}
+.equipe{
+    padding-bottom: 35px;
+}
+.integrantes{
+    padding-top:50px;    
+} 
